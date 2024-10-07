@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-gradio",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.8",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.0",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "381ccadfb8d4848add470e33033b198f"
+    },
+    "app.py": {
+      "checksum": "e10cafc69dfaeac07bda3817e881d16b"
+    }
+  }
+}
