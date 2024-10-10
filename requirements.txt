@@ -1,5 +1,3 @@
 # Gradio and its dependencies are pinned until we resolve proxy-serving
 # struggles with newer versions. <https://github.com/gradio-app/gradio/issues/9529>
-gradio==3.3.1
-fastapi==0.85.2
-httpx==0.24.1
+gradio
